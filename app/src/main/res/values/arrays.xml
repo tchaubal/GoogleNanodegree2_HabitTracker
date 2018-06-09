@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="habit_name">
+        <item>Gym</item>
+        <item>Drinking water</item>
+        <item>Yoga</item>
+        <item>Dancing</item>
+        <item>Netflix</item>
+        <item>Listening to music</item>
+        <item>Gardening</item>
+        <item>Laundry</item>
+    </string-array>
+    <string-array name="habit_duration">
+        <item>1 hour</item>
+        <item>14 glasses</item>
+        <item>1.5 hours</item>
+        <item>1 hour</item>
+        <item>2 hours</item>
+        <item>3 hours</item>
+        <item>1 hour</item>
+        <item>1 hour</item>
+    </string-array>
+    <string-array name="habit_target">
+        <item>5 days/week</item>
+        <item>per day</item>
+        <item>5 days/week</item>
+        <item>2 days/week</item>
+        <item>3 hours/week</item>
+        <item>3 hours/week</item>
+        <item>1 day/week</item>
+        <item>2 days/week</item>
+    </string-array>
+    <string-array name="habit_rating">
+        <item>5</item>
+        <item>4</item>
+        <item>5</item>
+        <item>4</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="habit_free_or_paid">
+        <item>1</item>
+        <item>0</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+</resources>
